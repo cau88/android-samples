@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Map Test</string>
+    <string name="google_maps_key">AIzaSyADv4lI2TK7lFdETCWX6Jo26xexZgrdzOg</string>
+    <!--<string name="project_id" translatable="false">arcadion-41cdd</string>-->
+    <string name="title_activity_maps">Map</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="signin_text">SIGN IN</string>
+    <string name="register_text">REGISTER</string>
+    <string name="ui_sign_in_failed">Sign In Failed</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="ui_profile_photo_content_description">Content Description</string>
+    <string name="ui_button_change_title">Change</string>
+    <string name="ui_profile_toast_save_text">Profile Saved</string>
+    <string name="ui_profile_photo_picker_from_camera_title">From Camera</string>
+    <string name="ui_profile_photo_picker_title">From Gallery</string>
+    <string name="dialog_fragment_tag_photo_picker">From Camera</string>
+    <string name="profile_photo_file_name">Profile Photo</string>
+    <string name="ui_profile_gender_required_text">Gender Required</string>
+    <string name="create_text">Submit</string>
+    <string name="event_text">Event (e.g. Collis After Dark)</string>
+    <string name="food_text">Food (e.g. Pad Thai)</string>
+    <string name="location_text">Location (e.g. Collis Free Food Table)</string>
+    <string name="address_text">Address (e.g. "2 N Main St, Hanover NH, 03755")</string>
+    <string name="no_email_create_text">Sign In or Sign Up to Create an Event!</string>
+    <string name="register_gender_f">Female</string>
+    <string name="register_gender_m">Male</string>
+    <string name="event_added_confirmation">Event added. Thanks!</string>
+    <string name="large_food_amt">A lot of food</string>
+    <string name="small_food_amt">Not a lot</string>
+    <string name="food_image_description">Add a picture</string>
+    <string name="food_rating_amount">Amount?</string>
+    <string name="event_reviewed_confirmation">Thanks! Review is appreciated!</string>
+    <!--<string name="registration_confirmation">Thank you for rating!</string>-->
+</resources>

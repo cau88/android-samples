@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "111402854994",
+    "firebase_url": "https://arcadion-41cdd.firebaseio.com",
+    "project_id": "arcadion-41cdd",
+    "storage_bucket": "arcadion-41cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111402854994:android:d4b043c71004ced1",
+        "android_client_info": {
+          "package_name": "edu.dartmouth.cs.arcadion.arcadion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111402854994-2tns8liftssiirhnnaml62kite9gdsi1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "111402854994-2tns8liftssiirhnnaml62kite9gdsi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVzlH3yCO7BK1sN7iezM-3zgraBIelKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111402854994:android:394c43d3cd30dfa0",
+        "android_client_info": {
+          "package_name": "edu.dartmouth.cs.maptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111402854994-mq8t1bfkgqumggfsjckgomjnsh1v4j2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.dartmouth.cs.maptest",
+            "certificate_hash": "425116e7ef4760a48448ef2a778394fddce894f8"
+          }
+        },
+        {
+          "client_id": "111402854994-2tns8liftssiirhnnaml62kite9gdsi1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "111402854994-2tns8liftssiirhnnaml62kite9gdsi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVzlH3yCO7BK1sN7iezM-3zgraBIelKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111402854994-2tns8liftssiirhnnaml62kite9gdsi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
